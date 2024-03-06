@@ -12,7 +12,7 @@ let map = L.map("map", {
   center: [
     40.7, -94.5
   ],
-  zoom: 4
+  zoom: 5
 });
 
 basemap.addTo(map);
