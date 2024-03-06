@@ -3,7 +3,7 @@
 # Instructions
 The instructions for this activity are broken into two parts:
 
-#Part 1: Create the Earthquake Visualization
+# Part 1: Create the Earthquake Visualization
 2-BasicMap
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
